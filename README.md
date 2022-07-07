@@ -1,2 +1,1 @@
-# disneyhotstarclone
-Created with CodeSandbox
+website clone disney+hotstar
